@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autoFRK"]
-	path = autoFRK
-	url = https://github.com/cran/autoFRK
 [submodule "HCV"]
 	path = HCV
 	url = https://github.com/h0h1/hcv
+[submodule "autoFRK"]
+	path = autoFRK
+	url = https://github.com/cran/autoFRK
